@@ -1,0 +1,11 @@
+.nav {
+    font-size: 15px;
+    font-weight: 800;
+    text-transform: uppercase;
+    height: 8vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+      
+}

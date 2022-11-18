@@ -1,0 +1,29 @@
+.col-sm-4 {
+    margin-bottom: 20px;
+  }
+
+  .list-price {
+    font-size: 18px;
+    color: #555;
+    font-weight: 900;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 auto;
+  }
+
+  .card-body li {
+    float: left;
+    font-size: 13px;
+    font-weight: 400;
+    list-style: outside none none;
+    margin: 0 auto;
+    width: 33%;
+  }
+
+  .col-sm-4 .card-body ul.features_list li {
+    color: #000;
+    margin-bottom: 3px;
+    width: 50%;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
